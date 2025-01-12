@@ -1,5 +1,5 @@
 import main
 
 def test_queue():
-    dmv = main.Queue()
-    assert dmv.cards == []
+    dmv = main.GanoLine()
+    assert dmv.people == []
