@@ -1,5 +1,5 @@
-# queue-lab-template  
-## Queue Lab  
+
+## Queue Lab Test
 In this lab you will implement a class to model a queue data structure. This is an independent lab.  
 
 ## Set Up
